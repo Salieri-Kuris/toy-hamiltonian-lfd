@@ -1,0 +1,16 @@
+# Candidate E off-diagonal MB trial
+
+```text
+Gamma_upper_minus_ED = 0.096905516601
+lower_marker_minus_ED = -0.492035680253
+TB_hopping_count = 71
+TB_hermiticity_error = 8.310e-17
+TB_reconstruction_error = 2.580e-15
+params = [0.20420223689403366, -0.11376031431237434, 0.03239312811493844, 0.01921080693311198, 0.019460523840302044, -0.046511256926746875, 0.021977546268830445, -0.02136623045060873, -0.02919741543662039, -0.02065372933022823, -0.05196310901918158, 0.20802167524097426, -0.16179286308739915, 0.2437891763216096, -0.042093314832431325, 0.08546184855393757, 0.004949322815219133]
+```
+
+Figures:
+- `figures\reverse_candidate_E_offdiag_MB_trial_zero_field_20260614-232918.png`
+- `figures\reverse_candidate_E_offdiag_MB_trial_pure_lfd_20260614-232918.png`
+
+Data: `outputs\reverse_designed_hamiltonian\reverse_candidate_E_offdiag_MB_trial_20260614-232918.npz`

@@ -1,0 +1,145 @@
+{
+  "candidate": "strong",
+  "base_candidate": "strong",
+  "parameters": {
+    "m0": -0.1,
+    "m1": 0.2,
+    "m2": -0.05,
+    "m3": 0.0,
+    "lam": 0.45,
+    "u0": 0.0,
+    "u1": -0.11823260573457668,
+    "u2": -0.0393635379740415,
+    "u3": -0.023103272118251236,
+    "u4": -0.018348877905879905,
+    "u5": 0.010152092446889431,
+    "u6": 0.014070201232323309,
+    "u7": 0.0013351112620801405,
+    "internal_degeneracy": 2,
+    "copy_degeneracy": 3
+  },
+  "figure_path": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\hamiltonian_lfd_package_useful_docs_20260614-182601\\figures\\tb_hofstadter_lfd_manual_quick_strong_20260614-190625.png",
+  "data_path": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\hamiltonian_lfd_package_useful_docs_20260614-182601\\outputs\\tb_hofstadter_lfd_manual_quick\\tb_hofstadter_lfd_manual_quick_strong_20260614-190625.npz",
+  "q_count": 35,
+  "q_range": [
+    24,
+    160
+  ],
+  "b_range_tesla": [
+    1.25,
+    8.333333333333334
+  ],
+  "eta": 0.006,
+  "kmesh": [
+    1,
+    7
+  ],
+  "e_dirac": -0.014065839666041847,
+  "nearest_upper_saddle_minus_dirac": 0.025520327692348695,
+  "manual_constraint": "pure Peierls total DOS; no beta_reservoir_dos, no hand-drawn fan lines",
+  "zero_field_report": {
+    "parameters": {
+      "m0": -0.1,
+      "m1": 0.2,
+      "m2": -0.05,
+      "m3": 0.0,
+      "lam": 0.45,
+      "u0": 0.0,
+      "u1": -0.11823260573457668,
+      "u2": -0.0393635379740415,
+      "u3": -0.023103272118251236,
+      "u4": -0.018348877905879905,
+      "u5": 0.010152092446889431,
+      "u6": 0.014070201232323309,
+      "u7": 0.0013351112620801405,
+      "internal_degeneracy": 2,
+      "copy_degeneracy": 3
+    },
+    "selected_dirac": {
+      "k1": -1.899562633007797,
+      "k2": 1.8995626330077968,
+      "line": "c2t_kprime_gamma_k",
+      "energy": -0.014065839666041847,
+      "v_parallel": 0.3541259430603002,
+      "v_perp": 0.6363961030540963
+    },
+    "nu_offset": -8.0,
+    "selected_dirac_filling": -2.0,
+    "upper_saddles_above_dirac": [
+      {
+        "k1": 1.638793446900877e-05,
+        "k2": -1.5996787075867047e-05,
+        "energy": 0.011454488026306848,
+        "grad_norm": 3.445876153248274e-07,
+        "hessian_det": -0.00694925080206236,
+        "hessian_trace": 1.1327344457377764,
+        "energy_minus_dirac": 0.025520327692348695
+      },
+      {
+        "k1": 1.3474024969815508,
+        "k2": -1.3474050404808455,
+        "energy": 0.10959136143809099,
+        "grad_norm": 1.5676384669410678e-05,
+        "hessian_det": -0.7729016046447417,
+        "hessian_trace": 1.7128307404357113,
+        "energy_minus_dirac": 0.12365720110413284
+      },
+      {
+        "k1": -1.3474214879866424,
+        "k2": 1.3474135753336078,
+        "energy": 0.10959136169327949,
+        "grad_norm": 1.414099587045475e-05,
+        "hessian_det": -0.7729325931652546,
+        "hessian_trace": 1.7128532647792127,
+        "energy_minus_dirac": 0.12365720135932133
+      },
+      {
+        "k1": 0.1453053163507132,
+        "k2": 1.5791419789443744,
+        "energy": 0.41708126318036903,
+        "grad_norm": 7.838588899847442e-06,
+        "hessian_det": -0.11806967658150991,
+        "hessian_trace": -0.8962943665036249,
+        "energy_minus_dirac": 0.4311471028464109
+      }
+    ],
+    "lower_saddles_below_dirac": [
+      {
+        "k1": 3.14157819293127,
+        "k2": 1.1345340131807546e-05,
+        "energy": -0.33661068200350136,
+        "grad_norm": 1.1063960592454523e-06,
+        "hessian_det": -0.03183465114943892,
+        "hessian_trace": -0.5454735871324168,
+        "dirac_minus_energy": 0.3225448423374595
+      },
+      {
+        "k1": 1.1345340131807546e-05,
+        "k2": 3.14157819293127,
+        "energy": -0.33661068200350136,
+        "grad_norm": 1.1063960592454523e-06,
+        "hessian_det": -0.03183465114943893,
+        "hessian_trace": -0.5454735871324168,
+        "dirac_minus_energy": 0.3225448423374595
+      },
+      {
+        "k1": -3.141592653589793,
+        "k2": -3.141592653589793,
+        "energy": -0.3366106820122374,
+        "grad_norm": 0.0,
+        "hessian_det": -0.12824914451614877,
+        "hessian_trace": -0.759728069343879,
+        "dirac_minus_energy": 0.32254484234619557
+      },
+      {
+        "k1": 3.0537825372665317,
+        "k2": 1.2261469490595571,
+        "energy": -0.4104136110956015,
+        "grad_norm": 9.292234697892783e-07,
+        "hessian_det": -0.019849254832345852,
+        "hessian_trace": 0.4470619971441714,
+        "dirac_minus_energy": 0.3963477714295596
+      }
+    ]
+  }
+}

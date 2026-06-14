@@ -1,0 +1,18 @@
+Candidate A weak phenomenology
+source=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\outputs\d3_hole_like_saddle_candidate\d3_hole_like_saddle_candidate_A_lfd_with_phenomenology_20260614-200759.npz
+gamma_alpha=0.003
+gamma_beta=0.012
+saddle_width=0.03
+beta_amplitude=0.22
+beta_width=0.07
+beta_b_star=5.2
+beta_power=2.0
+beta_onset_field=5.2
+beta_onset_width=0.55
+beta_lower_energy_minus_ED=0.006000000000
+beta_lower_gate_width=0.003
+hybrid_gap_depth=0.08
+hybrid_gap_width=0.022
+hybrid_gap_center_slope=0.004
+hybrid_gap_onset_field=5.4
+hybrid_gap_onset_width=0.6

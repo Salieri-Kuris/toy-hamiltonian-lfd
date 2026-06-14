@@ -1,0 +1,7 @@
+Candidate D pure DOS(n,B), no phenomenology
+source=outputs\reverse_designed_hamiltonian\reverse_candidate_D_separated_20260614-215109.npz
+figure=figures\reverse_candidate_D_pure_DOS_nB_no_phenomenology_20260614-230323.png
+B_range=(1.3986,10)
+n_range=(-0.9,1.2)
+uses dos_nB_pure from source npz
+no Route A+B, no MB, no extra phenomenological broadening

@@ -1,0 +1,9 @@
+Candidate B high-symmetry spectrum and pure LFD
+E_D=-0.029805634828
+upper_saddle_minus_ED=0.123951895025
+lower_saddle_spacing=0.297039367333
+flux_count=55
+B_range=(0.909090909091, 10.000000000000)
+energy_window_relative=(-0.600000000000, 0.750000000000)
+n_window=(-1.050000000000, 1.250000000000)
+phenomenology=off

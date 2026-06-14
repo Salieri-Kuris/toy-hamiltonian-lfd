@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "real-twse2-continuum"
+version = "0.1.0"
+description = "Continuum-model tools for realistic twisted WSe2 Hamiltonians and C2-line Dirac-cone searches."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "matplotlib",
+    "numpy",
+    "pytest",
+    "scipy",
+]
+
+[tool.setuptools]
+packages = ["twse2_continuum_dos"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

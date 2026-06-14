@@ -1,0 +1,11 @@
+Route A+B broadened-DOS proxy
+source=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\outputs\d3_hole_like_saddle_candidate\d3_candidate_B_shape_term_fixed_lfd_20260614-204516.npz
+E_D=0.018906377325
+gamma_upper_minus_ED=0.040921656652
+particle_min_minus_ED=0.011086284035
+lower_marker_minus_ED=-0.329963122572
+comparison_figure=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\figures\d3_candidate_B_shape_term_fixed_route_AB_scan_20260614-205451.png
+medium_figure=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\figures\d3_candidate_B_shape_term_fixed_route_AB_medium_20260614-205451.png
+mild: Gamma0=0.006, a_sqrtB=0.0008, lambda_D=0.01, data=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\outputs\d3_hole_like_saddle_candidate\d3_candidate_B_shape_term_fixed_route_AB_mild_20260614-205451.npz, gamma_range=(0.006053,0.011933)
+medium: Gamma0=0.008, a_sqrtB=0.0012, lambda_D=0.018, data=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\outputs\d3_hole_like_saddle_candidate\d3_candidate_B_shape_term_fixed_route_AB_medium_20260614-205451.npz, gamma_range=(0.008089,0.020060)
+strong: Gamma0=0.01, a_sqrtB=0.0018, lambda_D=0.03, data=C:\Users\10652\OneDrive\Documents\Toy modle\hamiltonian_lfd_package_useful_docs_20260614-182601\outputs\d3_hole_like_saddle_candidate\d3_candidate_B_shape_term_fixed_route_AB_strong_20260614-205451.npz, gamma_range=(0.010161,0.032131)

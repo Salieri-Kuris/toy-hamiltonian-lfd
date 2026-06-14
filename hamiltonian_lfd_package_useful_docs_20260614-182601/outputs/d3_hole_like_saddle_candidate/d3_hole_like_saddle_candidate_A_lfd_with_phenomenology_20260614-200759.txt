@@ -1,0 +1,21 @@
+Candidate A LFD with phenomenology
+E_D=0.018906377325
+upper_saddle_minus_ED=0.028229153338
+lower_saddle_spacing=0.326853128746
+flux_count=55
+B_range=(0.909090909091, 10.000000000000)
+gamma_alpha=0.003
+gamma_beta=0.035
+saddle_width=0.042
+beta_amplitude=0.75
+beta_width=0.095
+beta_b_star=4.5
+beta_onset_field=4.5
+beta_onset_width=0.4
+beta_lower_energy_minus_ED=0.004000000000
+beta_lower_gate_width=0.004
+hybrid_gap_depth=0.35
+hybrid_gap_width=0.03
+hybrid_gap_center_slope=0.01
+hybrid_gap_onset_field=4.6
+hybrid_gap_onset_width=0.45

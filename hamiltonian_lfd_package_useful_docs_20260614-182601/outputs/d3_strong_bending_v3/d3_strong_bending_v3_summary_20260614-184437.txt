@@ -1,0 +1,10 @@
+D3 strong-bending Hamiltonian v3
+E_D=-0.014065839666
+Dirac roots=[(-1.899562633007797, 1.8995626330077968), (1.8995626330077968, -1.8995626330077968)]
+nearest_upper_saddle_dE=0.025520327692
+nearest_upper_saddle_k=(0.000016387934, -0.000015996787)
+nearest_lower_saddle_dE=0.322544842337
+LFD_flux_count=70
+LFD_q_range=(20, 240)
+LFD_B_range=(0.833333333333, 10.000000000000)
+LFD_settings=Gamma_alpha=0.003, Gamma_beta=0.035, saddle_width=0.042, A_beta=0.95, beta_width=0.095, B_star=4.5, B_on=4.5, B_on_width=0.4
