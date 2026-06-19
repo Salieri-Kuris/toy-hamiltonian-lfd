@@ -1,0 +1,38 @@
+{
+  "created_at": "20260619-091448",
+  "manual": "single_dirac_three_copy_phenom_mb_manual.md",
+  "variant": "pure alpha=0 Dirac, MB off, beta off, N=0 LL included",
+  "params": {
+    "ED": 0.0,
+    "v": 1.0,
+    "alpha": 0.0,
+    "K0": 1.0,
+    "Nmax": 40,
+    "Gamma_LL": 0.03,
+    "t_scale": 0.0,
+    "phi_MB": 0.5,
+    "C_particle": 1.0,
+    "C_hole": 12.0,
+    "Ebeta": 0.45,
+    "Gbeta": 0.1,
+    "Abeta": 0.0
+  },
+  "diagnostics_at_Ebeta_B0p75": {
+    "energy_particle": 0.45,
+    "energy_hole": -0.45,
+    "B": 0.75,
+    "P_particle": 0.3972942607755268,
+    "P_hole": 1.5464913547967396e-05,
+    "particle_split": 0.0,
+    "hole_split": 0.0,
+    "delta_k_particle": 0.8320508075688772,
+    "delta_k_hole": 0.8320508075688772
+  },
+  "note": "Abeta=0 removes the phenomenological beta reservoir; only Dirac LLs remain.",
+  "npz": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\outputs\\single_dirac_three_copy_phenom_mb\\single_dirac_three_copy_alpha0_noMB_noBeta_N0fixed_20260619-091448.npz",
+  "summary": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\outputs\\single_dirac_three_copy_phenom_mb\\single_dirac_three_copy_alpha0_noMB_noBeta_N0fixed_20260619-091448.json",
+  "spectrum_figure": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\outputs\\single_dirac_three_copy_phenom_mb\\single_dirac_three_copy_alpha0_noMB_noBeta_N0fixed_20260619-091448_spectrum.png",
+  "dos_EB_figure": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\outputs\\single_dirac_three_copy_phenom_mb\\single_dirac_three_copy_alpha0_noMB_noBeta_N0fixed_20260619-091448_dos_EB.png",
+  "dos_nB_figure": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\outputs\\single_dirac_three_copy_phenom_mb\\single_dirac_three_copy_alpha0_noMB_noBeta_N0fixed_20260619-091448_dos_nB.png",
+  "dos_side_by_side_figure": "C:\\Users\\10652\\OneDrive\\Documents\\Toy modle\\outputs\\single_dirac_three_copy_phenom_mb\\single_dirac_three_copy_alpha0_noMB_noBeta_N0fixed_20260619-091448_dos_EB_nB_side_by_side.png"
+}
